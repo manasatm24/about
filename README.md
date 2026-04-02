@@ -1,5 +1,16 @@
-# 💫 About Me:
-## About Me<br><br>🔭 Aspiring Python Developer and Software Engineer  <br>🌱 Currently building real-world applications using Python  <br>👯 Open to collaborating on software development projects  <br>💬 Skilled in Python, SQL, and problem-solving  <br>⚡ Focused on writing clean, efficient, and scalable code  
+## About Me
+
+Hi, I am a Information Science student.
+
+I am interested in Web Development, Machine Learning, and Data Analytics.
+
+I am currently learning Data Structures and Algorithms and building projects to improve my skills.
+
+I have knowledge of Python, HTML, CSS, JavaScript, SQL, and basics of Data Analytics.
+
+I enjoy solving problems and exploring data to gain insights.
+
+My goal is to become a skilled software developer. 
 
 
 ## 🌐 Socials:
